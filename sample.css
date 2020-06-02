@@ -15,7 +15,7 @@ h2{
   margin-left: 480px;
   font-weight: bold;
 }
-p{
+.para{
     margin-left: 450px;
     height: 50px;
     width: 420px;
@@ -44,6 +44,7 @@ p{
 }
 .top-para{
       width:  204px;
+      font-size:12px;
       padding-left:14px;
       font-family: 'Poppins', sans-serif;
       margin-left: 0px;
@@ -71,6 +72,7 @@ p{
 }
 
   .middle-para{
+    font-size:12px;
     margin-left: 0px;
     width: 200px;
     padding-left: 15px;
@@ -98,6 +100,7 @@ p{
   }
   .mid-para{
     font-family: 'Poppins', sans-serif;
+    font-size:12px;
     margin-left: 0px;
     width: 140px;
     padding-left: 11px;
@@ -127,11 +130,13 @@ p{
 }
 .bot-para{
     font-family: 'Poppins', sans-serif;
+    font-size:12px;
     margin-left: 0px;
     width: 157px;
     padding-left: 10px;
     height: 38px;
     padding-right: 0px;
+    text-align-last:left;
 }
 .bot-seen{
   padding-left: 210px;
